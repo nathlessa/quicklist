@@ -29,6 +29,15 @@ Este é um projeto simples de uma **lista de compras interativa**, desenvolvido 
 Este projeto foi desenvolvido exclusivamente para uso em desktop. 
 A experiência em dispositivos móveis pode não estar otimizada ou apresentar problemas de visualização e funcionamento.
 
+## Possíveis melhorias futuras
+- Página inicial
+- Responsividade (adaptar para diferentes tamanhos de tela)
+- Editar nome dos itens
+- Filtrar por itens comprados/não comprados
+- Apagar todos os itens da página
+
+
+
 ## Agradecimento
 Agradeço à RocketSeat pela jornada de aprendizado. 
 
