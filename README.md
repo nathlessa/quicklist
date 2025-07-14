@@ -14,7 +14,7 @@ Este é um projeto simples de uma **lista de compras interativa**, desenvolvido 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
   ## 🧠 Conceitos praticados
 
