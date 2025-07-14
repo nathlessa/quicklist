@@ -10,13 +10,13 @@ Este é um projeto simples de uma **lista de compras interativa**, desenvolvido 
 - Exibir um alerta temporário quando um item é removido
 - Exibir uma mensagem quando a lista estiver vazia
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-##Conceitos praticados
+## Conceitos praticados
 
 - Manipulação da DOM
 - `addEventListener` e eventos de clique
@@ -25,7 +25,7 @@ Este é um projeto simples de uma **lista de compras interativa**, desenvolvido 
 - Controle de exibição com `setTimeout`
 - Estrutura condicional para tratamento de lista vazia
 
-##Agradecimento
+## Agradecimento
 Agradeço à RocketSeat pela jornada de aprendizado. 
 
   
